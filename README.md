@@ -1,5 +1,57 @@
-# 💫 About Me:
-## 👋 Hi there, I'm a Backend Engineer<br><br>💻 I’m a Software Engineer specializing in backend development, with a strong focus on building scalable and reliable systems.<br><br>### 🛠️ Tech Stack<br>- **Languages:** Java<br>- **Frameworks:** Spring Boot<br>- **Databases:** PostgreSQL<br>- **Cloud & Infra:** Google Cloud (GCP), Docker, Kubernetes (learning K3s)<br>- **Architecture:** Microservices, Distributed Systems<br><br>### 🚀 What I’m Currently Working On<br>- Designing and building **distributed microservices architectures**<br>- Improving **system reliability** using patterns like retries, circuit breakers, and caching<br>- Exploring **scalability & performance optimization**<br><br>### 📚 Currently Learning<br>- Advanced **Distributed Systems Design**<br>- **Kubernetes (K3s)** and container orchestration<br>- Observability (logging, metrics, tracing)<br><br>### 🎯 Interests<br>- Building resilient backend systems<br>- System design & architecture<br>- Performance tuning<br><br>### ⚡ Fun Fact<br>When I’m not coding, you’ll find me:<br>- 🏍️ Riding<br>- ⚽ Playing football<br><br>---<br><br>### 📫 Let’s Connect<br>Always open to discussions on backend engineering, system design, and microservices 🚀
+# 💫 About Me
+
+## 👋 Hi there, I'm a Backend Engineer
+
+💻 I’m a Software Engineer specializing in backend development, with a strong focus on building **scalable and reliable systems**.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Java  
+- **Frameworks:** Spring Boot  
+- **Databases:** PostgreSQL  
+- **Cloud & Infra:** Google Cloud (GCP), Docker, Kubernetes (learning K3s)  
+- **Architecture:** Microservices, Distributed Systems  
+
+---
+
+## 🚀 What I’m Currently Working On
+
+- Designing and building **distributed microservices architectures**  
+- Improving **system reliability** using patterns like **retries, circuit breakers, and caching**  
+- Exploring **scalability & performance optimization**  
+
+---
+
+## 📚 Currently Learning
+
+- Advanced **Distributed Systems Design**  
+- **Kubernetes (K3s)** and container orchestration  
+- Observability (**logging, metrics, tracing**)  
+
+---
+
+## 🎯 Interests
+
+- Building resilient backend systems  
+- System design & architecture  
+- Performance tuning  
+
+---
+
+## ⚡ Fun Fact
+
+When I’m not coding, you’ll find me:
+
+- 🏍️ Riding  
+- ⚽ Playing football  
+
+---
+
+## 📫 Let’s Connect
+
+Always open to discussions on **backend engineering, system design, and microservices** 🚀
 
 
 ## 🌐 Socials:
