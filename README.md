@@ -18,9 +18,9 @@
 
 ## 🚀 What I’m Currently Working On
 
-- Designing and building **distributed microservices architectures**  
-- Improving **system reliability** using patterns like **retries, circuit breakers, and caching**  
-- Exploring **scalability & performance optimization**  
+- Designing a **scalable Airline Reservation System** using **HLD (High-Level Design), design patterns, and architecture diagrams**  
+- Building **distributed microservices architectures** with real-world use cases  
+- Exploring **scalability and performance optimization** for high-traffic systems  
 
 ---
 
@@ -29,6 +29,8 @@
 - Advanced **Distributed Systems Design**  
 - **Kubernetes (K3s)** and container orchestration  
 - Observability (**logging, metrics, tracing**)  
+- Writing **resilient, reliable, and clean code** (SOLID principles, design patterns, best practices)  
+- Improving **fault tolerance and system stability** in microservices  
 
 ---
 
